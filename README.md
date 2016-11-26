@@ -9,5 +9,8 @@ First, install the cordova plugin for Azure Mobile Apps:
 ```
 cordova plugin add cordova-plugin-ms-azure-mobile-apps
 ```
-Then, include on your project the ngAzureMobileAppClient.js
 
+Then install manually, or from bower:
+```
+$ bower install ngMobileApp
+```

@@ -1,3 +1,3 @@
-angular.module('ngAzureAppMobile.plugins', [
-  'ngAzureAppMobile.plugins.ngAzureAppMobileClient'
+angular.module('ngAzureAppMobile', [
+  'ngAzureAppMobile.plugins'
 ]);

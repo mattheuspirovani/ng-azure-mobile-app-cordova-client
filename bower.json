@@ -1,0 +1,40 @@
+{
+  "name": "ngMobileApp",
+  "version": "0.0.1-alpha",
+  "homepage": "",
+  "authors": ["Mattheus Pirovani Roriz <mattheus.pirovani@gmail.com>"],
+  "description": "AngularJS wrapper for Azure Mobile App Cordova Client.",
+  "main": [
+    "./dist/ngMobileApp.js"
+  ],
+  "ignore": [
+    "**/.*",
+    "gulpfile.js",
+    "test",
+    "src",
+    "config",
+    "demo",
+    "CONTRIBUTING.md",
+    "CODE_OF_CONDUCT.md"
+  ],
+  "dependencies": {
+    "angular": ">= 1.2.23"
+  },
+  "keywords": [
+    "ngMobileApp",
+    "Azure Mobile App",
+    "Azure Mobile App Cordova",
+    "ng cordova",
+    "cordova",
+    "phonegap",
+    "angular",
+    "angularjs",
+    "ionic",
+    "cordova plugin"
+  ],
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "angular": ">= 1.2.23"
+  }
+}

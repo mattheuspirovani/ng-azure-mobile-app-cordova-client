@@ -1,4 +1,5 @@
-# ng-azure-mobile-app-cordova-client
+# ngMobileAppCordova
+
 ngAzureMobileApp is a AngularJS extension on top of azure-mobile-apps-cordova-client
 
 How to use?
